@@ -7,10 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Laravel 7 Blog Project
 
-This is the long tutorial serise of Laravel Blog Project on youtube.
-Check it out -> https://www.youtube.com/playlist?list=PL397yT3D1n9g-WZrBKonJol3DCcxnwZNs
 
 ## Instruction
 
@@ -21,6 +18,4 @@ Run migration to database - php artisan migrate
 Run seed - php artisan db:seed
 run the app - php artisan serve
 
-## License
 
-[MIT license](https://opensource.org/licenses/MIT).
